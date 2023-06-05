@@ -1,1 +1,27 @@
+        body {
+            background: rgb(149, 192, 219);
+            font-family: italic;
+            text-align: center;
+            font-size;
+            40px;
+        }
+
+        .header {
+            background-color: rgb(17, 18, 18);
+            color: white;
+            padding: 5px 10px;
+        }
+        
+   
+      
+
+
+
+        #blue-castle {
+            width: 100px;
+            float: left;
+            margin-right: 6px;
+            margin-bottom: 6px;
+
+        }
 
